@@ -12,11 +12,11 @@ namespace EstradaBMiniChallengeFiveToSeven.Services
         {
                 if (num % 2 == 0)
                 {
-                    return $"Your {num} is an even number";
+                    return $"The number you gave {num}, is an even number";
                 }
                 else
                 {
-                    return $"Your {num} is an odd number";
+                    return $"The number you gave {num}, is an odd number";
                 }
         }
     }
