@@ -145,3 +145,4 @@
 /Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeFiveToSeven/obj/Debug/net9.0/EstradaBMiniChallengeFiveToSeven.pdb
 /Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeFiveToSeven/obj/Debug/net9.0/EstradaBMiniChallengeFiveToSeven.genruntimeconfig.cache
 /Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeFiveToSeven/obj/Debug/net9.0/ref/EstradaBMiniChallengeFiveToSeven.dll
+/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeFiveToSeven/obj/Debug/net9.0/EstradaBMiniChallengeFiveToSeven.sourcelink.json

@@ -19,10 +19,10 @@ namespace EstradaBMiniChallengeFiveToSeven.Controllers
         }
 
         [HttpPost]
-        [Route("CheckOddEven/{num}")]
-        public string OddEvenChecker(int num)
+        [Route("CheckOddEven/{input}")]
+        public string OddEvenChecker(string input)
         {
-            return _OddOrEvenServices.OddOrEven(num);
+            return _OddOrEvenServices.OddOrEven(input);
         }
     }
 }

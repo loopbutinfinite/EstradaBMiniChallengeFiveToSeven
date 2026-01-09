@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstradaBMiniChallengeFiveToSeven")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+148770fabce3df721ec1e9cd02db27dceca08b13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0900f30b16e35e7af75b1d1bbf49a67fe9f6ee4")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstradaBMiniChallengeFiveToSeven")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstradaBMiniChallengeFiveToSeven")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
