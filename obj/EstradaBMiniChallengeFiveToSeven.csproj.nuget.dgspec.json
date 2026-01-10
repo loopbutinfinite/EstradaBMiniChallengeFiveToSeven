@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeFiveToSeven/EstradaBMiniChallengeFiveToSeven.csproj": {}
+    "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\EstradaBMiniChallengeFiveToSeven\\EstradaBMiniChallengeFiveToSeven.csproj": {}
   },
   "projects": {
-    "/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeFiveToSeven/EstradaBMiniChallengeFiveToSeven.csproj": {
+    "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\EstradaBMiniChallengeFiveToSeven\\EstradaBMiniChallengeFiveToSeven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeFiveToSeven/EstradaBMiniChallengeFiveToSeven.csproj",
+        "projectUniqueName": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\EstradaBMiniChallengeFiveToSeven\\EstradaBMiniChallengeFiveToSeven.csproj",
         "projectName": "EstradaBMiniChallengeFiveToSeven",
-        "projectPath": "/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeFiveToSeven/EstradaBMiniChallengeFiveToSeven.csproj",
-        "packagesPath": "/Users/brandonestrada/.nuget/packages/",
-        "outputPath": "/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeFiveToSeven/obj/",
+        "projectPath": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\EstradaBMiniChallengeFiveToSeven\\EstradaBMiniChallengeFiveToSeven.csproj",
+        "packagesPath": "C:\\Users\\Eliasaf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\EstradaBMiniChallengeFiveToSeven\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/brandonestrada/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Eliasaf\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
