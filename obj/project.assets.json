@@ -3562,19 +3562,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Eliasaf\\.nuget\\packages\\": {}
+    "/Users/brandonestrada/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\EstradaBMiniChallengeFiveToSeven\\EstradaBMiniChallengeFiveToSeven.csproj",
+      "projectUniqueName": "/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeFiveToSeven/EstradaBMiniChallengeFiveToSeven.csproj",
       "projectName": "EstradaBMiniChallengeFiveToSeven",
-      "projectPath": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\EstradaBMiniChallengeFiveToSeven\\EstradaBMiniChallengeFiveToSeven.csproj",
-      "packagesPath": "C:\\Users\\Eliasaf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\EstradaBMiniChallengeFiveToSeven\\obj\\",
+      "projectPath": "/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeFiveToSeven/EstradaBMiniChallengeFiveToSeven.csproj",
+      "packagesPath": "/Users/brandonestrada/.nuget/packages/",
+      "outputPath": "/Users/brandonestrada/Documents/Code Stack Academy/Level 2/Level 2 Homework Folder/EstradaBMiniChallengeFiveToSeven/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Eliasaf\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/brandonestrada/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -3652,8 +3652,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/brandonestrada/.local/share/NuGet/http-cache/670c1461c29885f9aa22c281d8b7da90845b38e4$ps:_api.nuget.org_v3_index.json/vuln_index.dat-new' is denied."
+    }
+  ]
 }
