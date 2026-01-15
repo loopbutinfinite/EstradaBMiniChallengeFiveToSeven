@@ -8,15 +8,19 @@ namespace EstradaBMiniChallengeFiveToSeven.Services
 {
     public class ReverseItNumbersOnlyServices
     {
-        public long ReversedNumberSequence(long userNumInput)
+        public string ReversedNumberSequence(string userInput)
         {
+            if (long.TryParse(userInput, out long userNumInput))
+            {   
             long reversedNum = 0;
             for (long i = userNumInput; i > 0; i /= 10)
             {
                 long lastDigit = i % 10;               
                 reversedNum = (reversedNum * 10) + lastDigit;
             }
-            return reversedNum;
+            return $"{userInput} reversed is {reversedNum}";
+            }
+            return $"{userInput} was an invalid input. Please enter a valid number.";
         }
     }
 }

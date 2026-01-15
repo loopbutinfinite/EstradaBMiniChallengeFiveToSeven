@@ -20,10 +20,10 @@ namespace EstradaBMiniChallengeFiveToSeven.Controllers
         }
 
         [HttpPost]
-        [Route("ReversingNumbersOnly/{userNumInput}")]
-        public long ReverseNumbersOnlyinator(long userNumInput)
+        [Route("ReversingNumbersOnly/{userInput}")]
+        public string ReverseNumbersOnlyinator(string userInput)
         {
-            return _ReverseItNumbersOnlyServices.ReversedNumberSequence(userNumInput);
+            return _ReverseItNumbersOnlyServices.ReversedNumberSequence(userInput);
         }
     }
 }
